@@ -7,6 +7,6 @@ void count_number() {
 	    cout << i << "\n";
     }
     cout << "Start!!" << "\n";
-    cout << "123456789 SeongWooYang" << "\n";
+    cout << "123456789 shinjognhyun" << "\n";
     // do it yourself //
 }
